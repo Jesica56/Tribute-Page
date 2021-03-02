@@ -1,0 +1,87 @@
+
+#main {
+	font-family: Vardana;
+	margin: auto;
+	background-color: seashell;
+}
+
+#title {
+	display: block;
+	text-align: center;
+	font-size: 2em;
+	margin-block-start: 0.67em;
+	margin-block-end: 0.67em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+}
+
+p {
+	display: block;
+	text-align: center;
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#img-div {
+	padding-right: 240px;
+    padding-left: 240px;
+    width: 800px;
+    height: 600px;
+    margin-left: 30px;
+    border-top-width: 10px;
+    border-left-width: 10px;
+    border-bottom-width: 10px;
+    border-right-width: 10px;
+    margin-bottom: 20px;
+}
+
+#img-figcaption {
+	padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: auto;
+    margin-left: auto;
+}
+
+#tribute-info {
+	padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 25px;
+    border-left-width: 40px;
+    padding-left: 25px;
+}
+
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+cite {
+	font-style: italic;
+	font-size: 1.5em;
+	height: 200px;
+    margin-right: 450px;
+    margin-left: 650px;
+    width: 200px;
+    margin-top: 10px;
+    border-bottom-width: 10px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
