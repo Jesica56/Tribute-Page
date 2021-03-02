@@ -1,3 +1,11 @@
+body {
+	display: block;
+	margin: 8px;
+}
+
+main {
+	display: block;
+}
 
 #main {
 	font-family: Vardana;
