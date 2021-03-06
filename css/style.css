@@ -66,10 +66,6 @@ p {
     padding-left: 25px;
 }
 
-.Resumen {
-	text-align: left;
-}
-
 blockquote {
     display: block;
     margin-block-start: 1em;
@@ -91,7 +87,7 @@ cite {
     color: #EDF7ED;
 }
 
-a {
+#tribute-link {
 	color: #55EE2B;
 }
 
