@@ -29,33 +29,30 @@ main {
 p {
 	display: block;
 	text-align: center;
-	margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+	margin: auto;
   	color: #EDF7ED;
 }
 
+img {
+  max-width: 100%; 
+  display: block;
+  height: auto;
+  margin: auto;
+  padding: auto;
+}
+
 #img-div {
-	padding-right: 240px;
-    padding-left: 240px;
-    width: 800px;
-    height: 600px;
-    margin-left: 30px;
     border-top-width: 10px;
     border-left-width: 10px;
     border-bottom-width: 10px;
     border-right-width: 10px;
-    margin-bottom: 20px;
 }
 
-#img-figcaption {
+#img-caption {
 	padding-top: 5px;
-    padding-bottom: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
-    margin-top: auto;
-    margin-left: auto;
+	display: block;
+	margin: 8px;
+	background-color: #D9D9D9;
 }
 
 #tribute-info {
@@ -66,33 +63,28 @@ p {
     padding-left: 25px;
 }
 
-.Resumen {
-	text-align: left;
-}
 
 blockquote {
     display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 40px;
-    margin-inline-end: 40px;
-
+    margin: auto;
 }
 
 cite {
 	font-style: italic;
 	font-size: 1.5em;
 	height: 200px;
-    margin-right: 450px;
-    margin-left: 650px;
     width: 200px;
-    margin-top: 10px;
+    margin: auto;
     border-bottom-width: 10px;
     color: #EDF7ED;
 }
 
 a {
 	color: #55EE2B;
+}
+
+strong {
+		color: #29FF97;
 }
 
 h3 {
