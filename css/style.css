@@ -31,17 +31,14 @@ p {
 	text-align: center;
 	margin: auto;
   	color: #EDF7ED;
+  	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
   }
   
-  .frace { 
-  	padding-top: 15px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-}
-
 .pie {
- color: black;
+ 	color: black;
 }
 
 img {
@@ -49,25 +46,9 @@ img {
   display: block;
   height: auto;
   margin: auto;
-}
-
-img {
-  max-width: 100%; 
-  display: block;
-  height: auto;
-  margin: auto;
-  padding: auto;
 }
 
 #img-div {
-<<<<<<< HEAD
-    border-top-width: 10px;
-    border-left-width: 10px;
-    border-bottom-width: 10px;
-    border-right-width: 10px;
-}
-
-=======
 	background: #EBEBEB;
     padding: 30px;
    	border-top-width: 10px;
@@ -86,7 +67,6 @@ figure {
     margin-inline-end: 40px;
 }
 
->>>>>>> Css
 #img-caption {
 	padding-top: 5px;
 	display: block;
@@ -105,12 +85,10 @@ figure {
 
 blockquote {
     display: block;
-<<<<<<< HEAD
-    margin: auto;
-=======
-    max-width: 545px;
-    margin: 10px 100px 15px 350px;
->>>>>>> Css
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
 }
 
 cite {
@@ -118,10 +96,6 @@ cite {
 	font-size: 1.5em;
 	height: 200px;
     width: 200px;
-<<<<<<< HEAD
-    margin: auto;
-=======
->>>>>>> Css
     border-bottom-width: 10px;
     color: #EDF7ED;
 }
@@ -130,9 +104,6 @@ a {
 	color: #55EE2B;
 }
 
-strong {
-		color: #29FF97;
-}
 
 h3 {
     display: block;
@@ -145,4 +116,3 @@ h3 {
     text-align: center;
     color: #EDF7ED;
 }
-
