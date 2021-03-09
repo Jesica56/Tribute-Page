@@ -31,6 +31,24 @@ p {
 	text-align: center;
 	margin: auto;
   	color: #EDF7ED;
+  }
+  
+  .frace { 
+  	padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.pie {
+ color: black;
+}
+
+img {
+  max-width: 100%; 
+  display: block;
+  height: auto;
+  margin: auto;
 }
 
 img {
@@ -42,12 +60,33 @@ img {
 }
 
 #img-div {
+<<<<<<< HEAD
     border-top-width: 10px;
     border-left-width: 10px;
     border-bottom-width: 10px;
     border-right-width: 10px;
 }
 
+=======
+	background: #EBEBEB;
+    padding: 30px;
+   	border-top-width: 10px;
+    border-left-width: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+figure {
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+>>>>>>> Css
 #img-caption {
 	padding-top: 5px;
 	display: block;
@@ -66,7 +105,12 @@ img {
 
 blockquote {
     display: block;
+<<<<<<< HEAD
     margin: auto;
+=======
+    max-width: 545px;
+    margin: 10px 100px 15px 350px;
+>>>>>>> Css
 }
 
 cite {
@@ -74,7 +118,10 @@ cite {
 	font-size: 1.5em;
 	height: 200px;
     width: 200px;
+<<<<<<< HEAD
     margin: auto;
+=======
+>>>>>>> Css
     border-bottom-width: 10px;
     color: #EDF7ED;
 }
