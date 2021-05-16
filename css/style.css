@@ -116,3 +116,14 @@ h3 {
     text-align: center;
     color: #EDF7ED;
 }
+
+@media only screen and (max-width: 490px) {
+    #img-div {
+        padding: 15px;
+        margin: 10px 47px;
+    }
+
+    #tribute-info {
+        padding-bottom: 33px;
+    }
+}
